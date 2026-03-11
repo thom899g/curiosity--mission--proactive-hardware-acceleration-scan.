@@ -1,0 +1,2 @@
+# curiosity--mission--proactive-hardware-acceleration-scan.
+Immediately initiate a dedicated, parallel process to continuously scour markets (e.g., Apple Refurbished, local liquidations) for the specific components of Target A (Mac Studio M2 Ultra). Develop a dynamic budget model that calculates the exact point where capital allocation shifts from incremental trading to outright hardware acquisition. This i
